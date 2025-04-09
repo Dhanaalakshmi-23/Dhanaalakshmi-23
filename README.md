@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Dhanaa Lakshmi</h1>
+<h1 align="center">Hey! Dhanaa Lakshmi here 🧠✨</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Underdog&pause=1000&color=F75CC4&width=435&lines=%F0%9F%A4%96+Currently+surviving+my+3rd+year+in+the+world+of+AI+%26+ML" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Underdog&pause=1000&color=F75CC4&width=435&lines=%F0%9F%A4%96+In+my+3rd+year+of+decoding+AI+%26+ML." alt="Typing SVG" /></a>
 </p>
 
 ---
