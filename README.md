@@ -16,7 +16,23 @@
 - 🎮 Fun fact: 📚 I learn best by breaking things first.
 
 ---
+### 🌐 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/DhanaaLakshmi/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dhanaalakshmina1)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1F8ACB?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dhanaalakshmqc6k/)  
+[![Skillrack](https://img.shields.io/badge/Skillrack-blue?style=flat)](http://www.skillrack.com/profile/452990/c6c56661fed06baf79dce6d7c4a8239ad36cdc5b)  
+
+
+### 📊 Competitive Coding Snapshot
+
+- 🟠 **LeetCode**: 200+ problems solved  
+- ✅ **HackerRank**: 4⭐ in C, Java, SQL.  3⭐ in Python
+- 🟢 **GeeksforGeeks**: Institute Rank #23 | 90+ problems  
+- 🔵 **Skillrack**: 500+ problems solved  
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DhanaaLakshmi)](https://leetcode.com/DhanaaLakshmi)
 
 
 <!--
